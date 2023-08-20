@@ -1,0 +1,7 @@
+Potatoes 4
+Pumpkins 5
+Onions 3
+Apples 6
+Carrots 2
+Broccoli 4
+Bananas 7
